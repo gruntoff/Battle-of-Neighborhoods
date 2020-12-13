@@ -10,4 +10,4 @@ Jupyter Notebook contains:
 - Feature engineering
 - K-means clustering 
 
-[See in nbviewer](https://nbviewer.jupyter.org/github/gruntoff/Data-Science-Capstone/blob/master/The%20Battle%20of%20Neighborhoods%20-%20Report.ipynb)
+[See in nbviewer](https://nbviewer.jupyter.org/github/gruntoff/battle-of-neighborhoods/blob/master/The%20Battle%20of%20Neighborhoods%20-%20Report.ipynb)
