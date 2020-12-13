@@ -1,0 +1,8 @@
+foursquare
+pandas
+numpy
+folium
+scikit-learn
+seaborn
+matplotlib
+scipy
